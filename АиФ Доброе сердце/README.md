@@ -3,7 +3,7 @@
 1. [Вводная аналитика](https://github.com/katerinabazh/profile/blob/main/АиФ%20Доброе%20сердце/aif_step1.ipynb)
 2. [RFM](https://github.com/katerinabazh/profile/blob/main/АиФ%20Доброе%20сердце/aif_rfm_step2.ipynb)
 
-- [Презентация результатов]()
+- [Презентация результатов](https://github.com/katerinabazh/profile/blob/main/АиФ%20Доброе%20сердце/АиФ%20Доброе%20сердце.pdf)
 ### Описание проекта  
 Благотворительный фонд [АиФ Доброе сердце](https://dobroe.aif.ru/about-us/) хочет лучше узнать своих благотворителей, чтобы максимально эффективно выстроить свою работу с ними.
 _Цели исследования_:  
